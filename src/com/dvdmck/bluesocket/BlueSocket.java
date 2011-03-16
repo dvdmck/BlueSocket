@@ -28,7 +28,8 @@ public class BlueSocket extends Activity {
             UUID.fromString("94f39d29-7d6d-437d-973b-fba39e49d4ee");
 
     // ==> hardcode your server's MAC address here <==
-    private static String address = "00:01:95:0A:01:6D";
+    //private static String address = "00:01:95:0A:01:6D"; // USB rojo
+    private static String address = "00:09:DD:50:37:4F"; // USB negro
 
     /** Called when the activity is first created. */
     @Override
